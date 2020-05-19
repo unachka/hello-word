@@ -1,4 +1,4 @@
 # hello-word
 First Repository for Metis
 
-This is my first repository for Metis Bootcamp. 
+This is my first repository for Metis Bootcamp. I am very excited!
